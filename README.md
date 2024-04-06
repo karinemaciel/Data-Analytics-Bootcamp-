@@ -7,6 +7,8 @@ This repository will track my progress and showcase the results of the challenge
 in progress
 ### Python
 in progress
+
+<a href="Python_for_Data_sleep_health_and_lifestyle.ipynb">Python for Data - sleep health and lifestyle</a>
 ### SQL database
 in progress
 ### Statistics
