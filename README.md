@@ -8,9 +8,12 @@ in progress
 ### Python
 in progress
 
+<a href="Statistics_and_probability.ipynb">Statistics and Probability</a>
+
 <a href="Python_for_Data_Pandas_sort.ipynb">Python for Data - Pandas</a>
 
 <a href="Python_for_Data_sleep_health_and_lifestyle.ipynb">Python for Data - sleep health and lifestyle</a>
+
 ### SQL database
 in progress
 ### Statistics
