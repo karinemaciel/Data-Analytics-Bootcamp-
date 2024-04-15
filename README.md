@@ -17,6 +17,8 @@ in progress
 ### Statistics
 in progress
 
+<a href="Non_Parametric_Tests_in_Hypothesis_Testing.ipynb">Non-Parametric Statistics Tests - Hypothesis Testing</a>
+
 <a href="Parametric_statistics_tests_in_Hypothesis_Testing.ipynb">Parametric Statistics Tests - Hypothesis Testing</a>
 
 <a href="Statistics_and_probability.ipynb">Statistics and Probability</a>
