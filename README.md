@@ -25,6 +25,8 @@ in progress
 
 <a href="Experiment_test_ab.ipynb">Experiment using A/B test</a>
 
+<a href="Estatística_Teste_de_Hipóteses_Karine_Maciel.ipynb">Hypothesis_Testing - translating</a>
+
 
 ### Logistic Regression
 in progress
