@@ -23,7 +23,7 @@ in progress
 
 <a href="Statistics_and_probability.ipynb">Statistics and Probability</a>
 
-<a href="Experiment_test_ab.ipynb">Experiment using teste A/B</a>
+<a href="Experiment_test_ab.ipynb">Experiment using A/B test</a>
 
 
 ### Logistic Regression
